@@ -1,0 +1,57 @@
+\documentclass{beamer}
+ 
+\usepackage[utf8]{inputenc}
+\usetheme{Copenhagen}
+\usecolortheme{seahorse}
+
+
+
+
+
+ 
+%Information to be included in the title page:
+\title{Sample title}
+\author{Anonymous}
+\institute{ShareLaTeX}
+\date{2014}
+ 
+ 
+ 
+\begin{document}
+
+\frame{\titlepage}
+ 
+\begin{frame}
+\frametitle{Sample frame title}
+This is a text in first frame. This is a text in first frame. This is a text in first frame.
+\end{frame}
+
+\begin{frame}
+\frametitle{Table of Contents}
+\tableofcontents
+\end{frame}
+
+\begin{frame}
+\frametitle{Sample frame title}
+Tableau
+
+
+
+
+
+\begin{frame}
+\frametitle{Sample frame title}
+blabla
+ 
+\begin{itemize}
+ \item<1-> Text visible on slide 1
+ \item<2-> Text visible on slide 2
+ \item<3> Text visible on slide 3
+ \item<4-> Text visible on slide 4
+\end{itemize}
+ 
+\end{frame}
+
+
+ 
+\end{document}

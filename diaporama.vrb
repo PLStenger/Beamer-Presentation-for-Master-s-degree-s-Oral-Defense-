@@ -1,0 +1,22 @@
+\frametitle{First Test}
+
+
+OK, let's get started with just some text:
+
+
+<<echo=FALSE,results='hide'>>=
+# some setup
+options(width=60)  # make the printing fit on the page
+set.seed(1121)   # make the results repeatable
+@
+
+<<>>=
+# create some random numbers
+(x=rnorm(20))
+mean(x);var(x)
+@
+
+
+BTW, the first element of \texttt{x} is \Sexpr{x[1]}. (Did you notice
+the use of\texttt{ \textbackslash{}Sexpr\{\}}?)
+

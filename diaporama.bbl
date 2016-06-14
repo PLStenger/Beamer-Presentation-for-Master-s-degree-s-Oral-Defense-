@@ -1,0 +1,61 @@
+\begin{thebibliography}{8}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+\input{babelbst.tex}
+\newcommand{\Capitalize}[1]{\uppercase{#1}}
+\newcommand{\capitalize}[1]{\expandafter\Capitalize#1}
+
+\bibitem[{Durand \emph{\bbletal{}}(2009)Durand, Jay, Gaggiotti \& Fran{\c
+  c}ois}]{durand2009}
+\textsc{Durand E}, \textsc{Jay F}, \textsc{Gaggiotti O} \& \textsc{Fran{\c
+  c}ois O} (2009) \emph{Molecular Biology \& Evolution}, \textbf{26}:1963--1973
+
+\bibitem[{Jombart(2008)}]{jombart2008}
+\textsc{Jombart T} (2008) \emph{Bioinformatics}, \textbf{24}:1403--1405
+
+\bibitem[{Louis \emph{\bbletal{}}(2014)Louis, Viriciel, Lucas, Peltier,
+  Alfonsi, Berrow, Brownlow, Covelo, Dabin, Deaville, DeStephanis, Gally,
+  Gauffier, Penrose, Silva, C. \& B.}]{louis2014}
+\textsc{Louis M}, \textsc{Viriciel A}, \textsc{Lucas T}, \textsc{Peltier H},
+  \textsc{Alfonsi E}, \textsc{Berrow S}, \textsc{Brownlow A}, \textsc{Covelo
+  P}, \textsc{Dabin W}, \textsc{Deaville R}, \textsc{DeStephanis R},
+  \textsc{Gally F}, \textsc{Gauffier P}, \textsc{Penrose R}, \textsc{Silva M},
+  \textsc{C G} \& \textsc{B SB} (2014) \emph{Molecular Ecology},
+  \textbf{23}:857--874
+
+\bibitem[{Lowther-Thieleking \emph{\bbletal{}}(2014)Lowther-Thieleking, Archer,
+  Lang \& Weller}]{lowther2014}
+\textsc{Lowther-Thieleking J}, \textsc{Archer F}, \textsc{Lang A} \&
+  \textsc{Weller D} (2014) \emph{Marine Mammal Science}, \textbf{31}:1--20
+
+\bibitem[{Peltier \emph{\bbletal{}}(2012)Peltier, Dabin, Daniel, Van~Canneyt,
+  Dor{\'e}mus, Huon \& Ridoux}]{peltier2012significance}
+\textsc{Peltier H}, \textsc{Dabin W}, \textsc{Daniel P}, \textsc{Van~Canneyt
+  O}, \textsc{Dor{\'e}mus G}, \textsc{Huon M} \& \textsc{Ridoux V} (2012)
+  \emph{Ecological Indicators}, \textbf{18}:278--290
+
+\bibitem[{Pimm \emph{\bbletal{}}(2014)Pimm, Jenkins, Abell, Brooks, Gittleman,
+  Joppa, Raven, Roberts \& Sexton}]{pimm2014aa}
+\textsc{Pimm SL}, \textsc{Jenkins CN}, \textsc{Abell R}, \textsc{Brooks TM},
+  \textsc{Gittleman JL}, \textsc{Joppa LN}, \textsc{Raven PH}, \textsc{Roberts
+  CM} \& \textsc{Sexton JO} (2014) \emph{Science}, \textbf{344}:887--899
+
+\bibitem[{Pritchard \emph{\bbletal{}}(2000)Pritchard, Stephens \&
+  Donnelly}]{pritchard2000}
+\textsc{Pritchard JK}, \textsc{Stephens M} \& \textsc{Donnelly P} (2000)
+  \emph{Genetics}, \textbf{155}:945--959
+
+\bibitem[{Schipper \emph{\bbletal{}}(2008)Schipper, Chanson, Chiozza, Cox,
+  Hoffmann, Katariya, Lamoreux, Rodrigues, Stuart, Temple
+  \emph{\bbletal{}}}]{schipper2008status}
+\textsc{Schipper J}, \textsc{Chanson JS}, \textsc{Chiozza F}, \textsc{Cox NA},
+  \textsc{Hoffmann M}, \textsc{Katariya V}, \textsc{Lamoreux J},
+  \textsc{Rodrigues AS}, \textsc{Stuart SN}, \textsc{Temple HJ}
+  \emph{\bbletal{}} (2008) \emph{Science}, \textbf{322}:225--230
+
+\end{thebibliography}
